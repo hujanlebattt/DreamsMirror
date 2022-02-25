@@ -176,7 +176,7 @@ help_string_telegraph = f'''<br>
 '''
 
 help = telegraph.create_page(
-        title='TG-Mirror-Leech-Bot Help',
+        title='Dreams Mirror Drive Help',
         content=help_string_telegraph,
     )["path"]
 
