@@ -187,13 +187,13 @@ help_string = f'''
 
 /{BotCommands.UnAuthorizeCommand}: Unauthorize a chat or a user to use the bot (Can only be invoked by Owner & Sudo of the bot)
 
-/{BotCommands.AuthorizedUsersCommand}: Show authorized users (Only Owner & Sudo)
+/{BotCommands.AuthorizedUsersCommand}: Show authorized users (Only Owner)
 
 /{BotCommands.AddSudoCommand}: Add sudo user (Only Owner)
 
 /{BotCommands.RmSudoCommand}: Remove sudo users (Only Owner)
 
-/{BotCommands.RestartCommand}: Restart and update the bot
+/{BotCommands.RestartCommand}: Restart and update the bot (Only Owner0
 
 /{BotCommands.LogCommand}: Get a log file of the bot. Handy for getting crash reports
 
